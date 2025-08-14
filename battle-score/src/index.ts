@@ -1,0 +1,1 @@
+export { compareCoinMarketCaps } from "./coinComparison";
